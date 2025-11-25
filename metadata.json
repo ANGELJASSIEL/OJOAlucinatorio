@@ -1,0 +1,7 @@
+{
+  "name": "Ojo Alucinatorio Online",
+  "description": "Una experiencia inmersiva de RA que revela arte generativo 'invisible' y entidades en tu entorno usando Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
